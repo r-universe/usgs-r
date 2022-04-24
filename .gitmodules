@@ -3,3 +3,58 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "dataRetrieval"]
+	path = dataRetrieval
+	url = https://github.com/usgs-r/dataretrieval
+	shallow = true
+	registered = true
+[submodule "EGRET"]
+	path = EGRET
+	url = https://github.com/usgs-r/egret
+	shallow = true
+	registered = true
+[submodule "EGRETci"]
+	path = EGRETci
+	url = https://github.com/usgs-r/egretci
+	shallow = true
+	registered = true
+[submodule "geoknife"]
+	path = geoknife
+	url = https://github.com/usgs-r/geoknife
+	shallow = true
+	registered = true
+[submodule "inlmisc"]
+	path = inlmisc
+	url = https://github.com/usgs-r/inlmisc
+	shallow = true
+	registered = true
+[submodule "laketemps"]
+	path = laketemps
+	url = https://github.com/usgs-r/laketemps
+	shallow = true
+	registered = true
+[submodule "ncdfgeom"]
+	path = ncdfgeom
+	url = https://github.com/usgs-r/ncdfgeom
+	shallow = true
+	registered = true
+[submodule "nhdplusTools"]
+	path = nhdplusTools
+	url = https://github.com/usgs-r/nhdplustools
+	shallow = true
+	registered = true
+[submodule "RSurvey"]
+	path = RSurvey
+	url = https://github.com/usgs-r/rsurvey
+	shallow = true
+	registered = true
+[submodule "sbtools"]
+	path = sbtools
+	url = https://github.com/usgs-r/sbtools
+	shallow = true
+	registered = true
+[submodule "toxEval"]
+	path = toxEval
+	url = https://github.com/usgs-r/toxeval
+	shallow = true
+	registered = true

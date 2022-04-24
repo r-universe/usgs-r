@@ -1,0 +1,46 @@
+[
+  {
+    "package": "dataRetrieval",
+    "oncran": true
+  },
+  {
+    "package": "EGRET",
+    "oncran": true
+  },
+  {
+    "package": "EGRETci",
+    "oncran": true
+  },
+  {
+    "package": "geoknife",
+    "oncran": true
+  },
+  {
+    "package": "inlmisc",
+    "oncran": true
+  },
+  {
+    "package": "laketemps",
+    "oncran": true
+  },
+  {
+    "package": "ncdfgeom",
+    "oncran": true
+  },
+  {
+    "package": "nhdplusTools",
+    "oncran": true
+  },
+  {
+    "package": "RSurvey",
+    "oncran": true
+  },
+  {
+    "package": "sbtools",
+    "oncran": true
+  },
+  {
+    "package": "toxEval",
+    "oncran": true
+  }
+]
