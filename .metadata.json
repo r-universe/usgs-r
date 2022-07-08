@@ -24,10 +24,6 @@
     "oncran": true
   },
   {
-    "package": "ncdfgeom",
-    "oncran": true
-  },
-  {
     "package": "nhdplusTools",
     "oncran": true
   },
