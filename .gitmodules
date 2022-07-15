@@ -33,6 +33,11 @@
 	url = https://github.com/usgs-r/laketemps
 	shallow = true
 	registered = true
+[submodule "ncdfgeom"]
+	path = ncdfgeom
+	url = https://github.com/usgs-r/ncdfgeom
+	shallow = true
+	registered = true
 [submodule "nhdplusTools"]
 	path = nhdplusTools
 	url = https://github.com/usgs-r/nhdplustools
